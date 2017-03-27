@@ -1,0 +1,4 @@
+git init
+1. it initializes a git repo in the given directory
+2. which is cool, because it makes versioning possible anywhere
+

@@ -1,0 +1,5 @@
+How do i want to use git?
+
+1. for verion control
+2. uploading things to, and cloning things from github
+3. make me look good for jobs

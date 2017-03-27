@@ -1,0 +1,3 @@
+staging area
+1. it helps with controling what is commitied
+2. it also adds a step of intentionality
