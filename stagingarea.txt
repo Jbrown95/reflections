@@ -1,3 +1,4 @@
 staging area
-1. it helps with controling what is commitied
+1. it helps with controlling what is committed
 2. it also adds a step of intentionality
+3. it also adds the ability to make changes, not commit, and compare changes later on.
